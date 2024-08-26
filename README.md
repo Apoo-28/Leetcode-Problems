@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Breadth-First Search
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Design
 |  |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
+## Stack
+|  |
+| ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
