@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1325-path-with-maximum-probability) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1240-stone-game-ii) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Game Theory
 |  |
 | ------- |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Stack
 |  |
