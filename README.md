@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0890-lemonade-change](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0890-lemonade-change) |
+| [0906-walking-robot-simulation](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0906-walking-robot-simulation) |
 | [1240-stone-game-ii](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1325-path-with-maximum-probability) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0264-ugly-number-ii) |
+| [0906-walking-robot-simulation](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Math
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
+| [0906-walking-robot-simulation](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
