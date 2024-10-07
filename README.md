@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2755-extra-characters-in-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Bit Manipulation
 |  |
@@ -217,11 +218,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2411-spiral-matrix-iv) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Stack
 |  |
 | ------- |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Graph
 |  |
 | ------- |
