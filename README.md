@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0906-walking-robot-simulation) |
+| [1002-maximum-width-ramp](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1002-maximum-width-ramp) |
 | [1240-stone-game-ii](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1325-path-with-maximum-probability) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -323,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0567-permutation-in-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
