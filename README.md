@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0731-my-calendar-ii) |
+| [0787-sliding-puzzle](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0787-sliding-puzzle) |
 | [0859-design-circular-deque](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0787-sliding-puzzle](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0787-sliding-puzzle) |
 | [1484-linked-list-in-binary-tree](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2035-count-sub-islands) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0787-sliding-puzzle](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
