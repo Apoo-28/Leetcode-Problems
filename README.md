@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Matrix
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Design
 |  |
 | ------- |
@@ -444,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2803-modify-graph-edge-weights) |
 | [3189-find-champion-ii](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3189-find-champion-ii) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Shortest Path
 |  |
