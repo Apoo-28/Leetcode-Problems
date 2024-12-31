@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0906-walking-robot-simulation) |
 | [1002-maximum-width-ramp](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1002-maximum-width-ramp) |
+| [1025-minimum-cost-for-tickets](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1240-stone-game-ii](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1240-stone-game-ii) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0664-strange-printer) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [1025-minimum-cost-for-tickets](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1063-best-sightseeing-pair) |
 | [1240-stone-game-ii](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1240-stone-game-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
