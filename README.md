@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
 | [0179-largest-number](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0179-largest-number) |
+| [0407-trapping-rain-water-ii](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0624-maximum-distance-in-arrays) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0787-sliding-puzzle) |
 | [1484-linked-list-in-binary-tree](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1484-linked-list-in-binary-tree) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0264-ugly-number-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
