@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1325-path-with-maximum-probability) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
