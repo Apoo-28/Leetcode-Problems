@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0368-largest-divisible-subset](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0407-trapping-rain-water-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0624-maximum-distance-in-arrays) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0264-ugly-number-ii) |
 | [0368-largest-divisible-subset](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0664-strange-printer) |
