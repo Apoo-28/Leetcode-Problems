@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
+| [0075-sort-colors](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0368-largest-divisible-subset](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0407-trapping-rain-water-ii) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0567-permutation-in-string](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-partition-labels](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0768-partition-labels) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0368-largest-divisible-subset](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
