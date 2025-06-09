@@ -1,31 +1,28 @@
 class Solution {
-    private int n;
+  public int findKthNumber(int n, int k) {
+    long ans = 1;
 
-    public int findKthNumber(int n, int k) {
-        this.n = n;
-        long curr = 1;
-        --k;
-        while (k > 0) {
-            int cnt = count(curr);
-            if (k >= cnt) {
-                k -= cnt;
-                ++curr;
-            } else {
-                --k;
-                curr *= 10;
-            }
-        }
-        return (int) curr;
+    for (int i = 1; i < k;) {
+      final long gap = getGap(ans, ans + 1, n);
+      if (i + gap <= k) {
+        i += gap;
+        ++ans;
+      } else {
+        ++i;
+        ans *= 10;
+      }
     }
 
-    public int count(long curr) {
-        long next = curr + 1;
-        long cnt = 0;
-        while (curr <= n) {
-            cnt += Math.min(n - curr + 1, next - curr);
-            next *= 10;
-            curr *= 10;
-        }
-        return (int) cnt;
+    return (int) ans;
+  }
+
+  private long getGap(long a, long b, long n) {
+    long gap = 0;
+    while (a <= n) {
+      gap += Math.min(n + 1, b) - a;
+      a *= 10;
+      b *= 10;
     }
+    return gap;
+  }
 }
