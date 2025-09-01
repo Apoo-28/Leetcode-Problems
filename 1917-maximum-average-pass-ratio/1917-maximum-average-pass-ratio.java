@@ -1,23 +1,33 @@
 class Solution {
-    public double maxAverageRatio(int[][] classes, int extraStudents) {
-         PriorityQueue<double[]> pq = new PriorityQueue<>((a, b) -> {
-            double x = (a[0] + 1) / (a[1] + 1) - a[0] / a[1];
-            double y = (b[0] + 1) / (b[1] + 1) - b[0] / b[1];
-            return Double.compare(y, x);
-        });
-        for (var e : classes) {
-            pq.offer(new double[] {e[0], e[1]});
-        }
-        while (extraStudents-- > 0) {
-            var e = pq.poll();
-            double a = e[0] + 1, b = e[1] + 1;
-            pq.offer(new double[] {a, b});
-        }
-        double ans = 0;
-        while (!pq.isEmpty()) {
-            var e = pq.poll();
-            ans += e[0] / e[1];
-        }
-        return ans / classes.length;
+  public double maxAverageRatio(int[][] classes, int extraStudents) {
+    // (extra pass ratio, pass, total)
+    PriorityQueue<T> maxHeap =
+        new PriorityQueue<>((a, b) -> Double.compare(b.extraPassRatio, a.extraPassRatio));
+
+    for (int[] c : classes) {
+      final int pass = c[0];
+      final int total = c[1];
+      maxHeap.offer(new T(getExtraPassRatio(pass, total), pass, total));
     }
+
+    for (int i = 0; i < extraStudents; ++i) {
+      final int pass = maxHeap.peek().pass;
+      final int total = maxHeap.poll().total;
+      maxHeap.offer(new T(getExtraPassRatio(pass + 1, total + 1), pass + 1, total + 1));
+    }
+
+    double ratioSum = 0;
+
+    while (!maxHeap.isEmpty())
+      ratioSum += maxHeap.peek().pass / (double) maxHeap.poll().total;
+
+    return ratioSum / classes.length;
+  }
+
+  // Returns the extra pass ratio if a brilliant student joins.
+  private double getExtraPassRatio(int pass, int total) {
+    return (pass + 1) / (double) (total + 1) - pass / (double) total;
+  }
+
+  private record T(double extraPassRatio, int pass, int total){};
 }
