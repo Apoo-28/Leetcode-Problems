@@ -732,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3637-count-number-of-balanced-permutations) |
+| [3830-find-closest-person](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3830-find-closest-person) |
 ## Prefix Sum
 |  |
 | ------- |
