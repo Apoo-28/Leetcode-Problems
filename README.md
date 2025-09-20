@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3748-sort-matrix-by-diagonals](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3827-implement-router) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3827-implement-router) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3643-zero-array-transformation-ii) |
+| [3827-implement-router](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3827-implement-router) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -704,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -1124,6 +1128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2868-continuous-subarrays) |
 | [3678-design-task-manager](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3827-implement-router) |
 ## Queue
 |  |
 | ------- |
@@ -1134,6 +1139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3827-implement-router](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3827-implement-router) |
 ## Doubly-Linked List
 |  |
 | ------- |
