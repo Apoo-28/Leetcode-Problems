@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0787-sliding-puzzle) |
 | [0797-rabbits-in-forest](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0890-lemonade-change) |
@@ -738,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0830-largest-triangle-area) |
 | [1240-stone-game-ii](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1240-stone-game-ii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -1260,6 +1262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
