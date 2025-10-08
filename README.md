@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2411-spiral-matrix-iv](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2411-spiral-matrix-iv) |
 | [2429-design-a-food-rating-system](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2429-design-a-food-rating-system) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2280-count-good-triplets-in-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2551-apply-operations-to-an-array](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2551-apply-operations-to-an-array) |
@@ -535,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2554-minimum-total-distance-traveled](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2554-minimum-total-distance-traveled) |
