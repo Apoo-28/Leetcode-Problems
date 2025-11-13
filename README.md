@@ -659,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-separate-black-and-white-balls](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3195-separate-black-and-white-balls) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3647-zero-array-transformation-iii](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3647-zero-array-transformation-iii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -1014,6 +1015,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3451-string-compression-iii](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -1218,6 +1220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Apoo-28/Leetcode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
