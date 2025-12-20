@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0906-walking-robot-simulation) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0945-snakes-and-ladders](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1002-maximum-width-ramp) |
@@ -1023,6 +1024,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0868-push-dominoes) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1006-vowel-spellchecker](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1006-vowel-spellchecker) |
