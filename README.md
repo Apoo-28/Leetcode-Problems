@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0952-word-subsets) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1002-maximum-width-ramp](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1002-maximum-width-ramp) |
 | [1006-vowel-spellchecker](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1006-vowel-spellchecker) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -724,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1063-best-sightseeing-pair) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -1030,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0952-word-subsets) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1006-vowel-spellchecker](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
