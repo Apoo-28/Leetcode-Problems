@@ -566,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
 | [0494-target-sum](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0494-target-sum) |
+| [0756-pyramid-transition-matrix](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0756-pyramid-transition-matrix) |
 | [1160-letter-tile-possibilities](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -802,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0756-pyramid-transition-matrix](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -1043,6 +1045,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0664-strange-printer) |
+| [0756-pyramid-transition-matrix](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0868-push-dominoes) |
@@ -1143,6 +1146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0476-number-complement) |
+| [0756-pyramid-transition-matrix](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
