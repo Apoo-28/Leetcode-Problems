@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0890-lemonade-change) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0498-diagonal-traverse) |
 | [0787-sliding-puzzle](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0794-swim-in-rising-water) |
+| [0840-magic-squares-in-grid](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0945-snakes-and-ladders) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -806,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
+| [0840-magic-squares-in-grid](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0840-magic-squares-in-grid) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -917,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1240-stone-game-ii](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1240-stone-game-ii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
