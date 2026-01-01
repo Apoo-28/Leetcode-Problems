@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
+| [0066-plus-one](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0120-triangle) |
@@ -911,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
