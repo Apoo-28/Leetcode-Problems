@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1396-count-servers-that-communicate) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
