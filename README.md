@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0110-balanced-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0110-balanced-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0110-balanced-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
