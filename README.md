@@ -994,6 +994,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
@@ -1134,6 +1135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0179-largest-number) |
@@ -1249,6 +1251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0476-number-complement) |
@@ -1287,6 +1290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0498-diagonal-traverse) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0906-walking-robot-simulation) |
