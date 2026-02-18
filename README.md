@@ -1257,6 +1257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0401-binary-watch) |
 | [0476-number-complement](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0476-number-complement) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/Apoo-28/Leetcode-Problems/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
