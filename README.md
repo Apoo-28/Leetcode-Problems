@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1694-make-sum-divisible-by-p](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1694-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1876-map-of-highest-peak](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1876-map-of-highest-peak) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1895-largest-magic-square) |
@@ -711,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/Apoo-28/Leetcode-Problems/tree/master/2092-find-all-people-with-secret) |
@@ -786,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Apoo-28/Leetcode-Problems/tree/master/1917-maximum-average-pass-ratio) |
